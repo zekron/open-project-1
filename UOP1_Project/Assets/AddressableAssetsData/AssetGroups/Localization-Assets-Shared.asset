@@ -67,6 +67,10 @@ MonoBehaviour:
     m_Address: Assets/UI/UI Misc Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
+  - m_GUID: a75370b9dbab939478f3b25b56cb966d
+    m_Address: Assets/LocalizationFiles/TestTables/Test Table Collection Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: bffab80dc16c4464b92b2e97b6a1964c, type: 2}
   m_SchemaSet:
